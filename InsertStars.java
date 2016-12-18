@@ -22,9 +22,6 @@ public class InsertStars {
 	    // Recursive case for non-matching
 	    return s.substring(0,1) + insertPairStar(s.substring(1,s.length()));
 	
-	
-	
-	
 }
 
 
